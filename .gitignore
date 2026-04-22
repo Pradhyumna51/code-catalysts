@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+uploads/
+
+# Node / Frontend
+node_modules/
+dist/
+.eslintcache
+
+# Project Specific
+.claude/
+.code-review-graph/
+.kiro/
+.opencode.json
+.mcp.json
+ai_meeting_notes.db
+*.log
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
