@@ -20,6 +20,7 @@ dist/
 ai_meeting_notes.db
 *.log
 .cursorrules
+.windsurfrules
 CLAUDE.md
 GEMINI.md
 AGENTS.md
